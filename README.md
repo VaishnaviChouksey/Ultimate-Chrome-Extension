@@ -12,3 +12,4 @@ Voice Command Button Generated
 **WebStyle Customize!r Chrome Extension**
 
 A versatile Chrome extension that allows users to personalize their browsing experience by customizing webpage fonts, colors, themes, and backgrounds.
+![Screenshot (305)](https://github.com/VaishnaviChouksey/Ultimate-Chrome-Extension/assets/121281774/47ac77ec-ab77-4b3f-b06a-6a3f128b89f2)
