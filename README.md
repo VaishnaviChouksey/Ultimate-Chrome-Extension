@@ -9,7 +9,7 @@ Voice Command Button Generated
 
 ![Screenshot (306)](https://github.com/VaishnaviChouksey/Ultimate-Chrome-Extension/assets/121281774/35d2338b-2533-4805-a620-736cf8147847)
 
-**WebStyle Customizer Chrome Extension**
+**WebStyle Customizer Chrome Extension** 
 
 A versatile Chrome extension that allows users to personalize their browsing experience by customizing webpage fonts, colors, themes, and backgrounds.
 ![Screenshot (305)](https://github.com/VaishnaviChouksey/Ultimate-Chrome-Extension/assets/121281774/47ac77ec-ab77-4b3f-b06a-6a3f128b89f2)
